@@ -12,6 +12,7 @@ function Footers() {
             </div>
 
             <p>© 2023, JeffYin.com</p>
+            <p>Special thank https://chile109.github.io/</p>
         </div>
     );
 }
